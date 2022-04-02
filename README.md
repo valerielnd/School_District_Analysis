@@ -215,7 +215,7 @@ budget of $638 per student.
 
 ![challenge_performace_budget](https://github.com/valerielnd/School_District_Analysis/blob/main/Pictures/challenge_performance_based_budget.png)
 
-### School performance based on the school size
+### **School performance based on the school size**
 
 The school performance based on the school size report was only affected for 
 the range of medium-sized schools. As we can see, the overall passing percentage increased by 1%. 
