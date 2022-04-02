@@ -29,7 +29,10 @@ CSV files:
 
 [students_complete.csv](https://github.com/valerielnd/School_District_Analysis/blob/main/Resources/students_complete.csv)
 
-We will work with Python libraries Pandas and Numpy and Anaconda's Jupyter Notebook to do the analysis.
+We used Python libraries Pandas and Numpy and Anaconda's Jupyter Notebook to do the analysis.
+
+- [First analysis file](https://github.com/valerielnd/School_District_Analysis/blob/main/PyCitySchools.ipynb)
+- [Second analysis file](https://github.com/valerielnd/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb)
 
 ## Analysis Results
 
@@ -51,7 +54,7 @@ The school district summary is a high-level snapshot of the following district's
 ### Per school summary
 
 The per school summary provides the passing percentages for math and reading for each school, 
-as well as the overall passing percentage for each school. It contains the following metrics:
+and their overall passing percentage. It has the following metrics:
 
 - School name
 - School type
@@ -65,9 +68,9 @@ as well as the overall passing percentage for each school. It contains the follo
 - Overall passing percentage
 
 As mentioned earlier, there are 15 schools in the district. While the average math score at the district level
-is 79, the minimum average per school is 76.6, and the maximum is 83.8. The average reading
+is 79, the minimum average score per school is 76.6, and the maximum is 83.8. The average reading
 score per school is higher than math and is between 80.7 and 84.0. As for the overall passing percentage, while
-the mean for the district is 65%, this table shows the minimum average per school is 54%, and the maximum is 
+the mean for the district is 65%, this table shows the minimum percentage per school is 54%, and the maximum is 
 91.33%, which suggests some variability across the school.
 
 ![original_per_school_summary](https://github.com/valerielnd/School_District_Analysis/blob/main/Pictures/original_per_school_summary.png)
@@ -78,8 +81,8 @@ The highest performing school table showcases the five highest-performing school
 percentage of passing students.
 
 The best performing school is Cabrera High School, with an overall passing percentage of
-91.3%. Also, we can notice that all highest-performing schools are charter schools, and they all have
-an overall passing score of at least 90%.
+91.3%. Also, we notice that all highest-performing schools are charter schools, and they all have
+an overall passing percentage of at least 90%.
 
 
 ![original_best_performing_school](https://github.com/valerielnd/School_District_Analysis/blob/main/Pictures/original_highest_school.png)
@@ -89,9 +92,9 @@ an overall passing score of at least 90%.
 The lowest-performing school table showcases the five lowest-performing schools based on the overall percentage 
 of passing students.
 
-We can see that the lowest-performing school is Rodriguez High School, with an overall passing percentage of
-52.9%. Also, we can notice that all lowest-performing schools are district schools, and they all have
-an overall passing score of at most 53%.
+The lowest-performing school is Rodriguez High School, with an overall passing percentage of
+52.9%. Also, we notice that all lowest-performing schools are district schools, and they all have
+an overall passing percentage of at most 53%.
 
 ![orginal_lowest_performing_school](https://github.com/valerielnd/School_District_Analysis/blob/main/Pictures/original_lowest_school.png)
 
@@ -213,8 +216,6 @@ budget of $638 per student.
 ![challenge_performace_budget](https://github.com/valerielnd/School_District_Analysis/blob/main/Pictures/challenge_performance_based_budget.png)
 
 ### School performance based on the school size
-
-School performance based on the school size
 
 The school performance based on the school size report was only affected for 
 the range of medium-sized schools. As we can see, the overall passing percentage increased by 1%. 
