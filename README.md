@@ -46,7 +46,7 @@ The school district summary is a high-level snapshot of the following district's
 - Percentage of students who passed reading: 86%
 - Percentage of students who passed math and reading: %65
 
-![original_school_summary](https://github.com/valerielnd/School_District_Analysis/blob/main/original_school_district_summary.png)
+![original_school_summary](https://github.com/valerielnd/School_District_Analysis/blob/main/Pictures/original_school_district_summary.png)
 
 ### Per school summary
 
@@ -70,7 +70,7 @@ score per school is higher than math and is between 80.7 and 84.0. As for the ov
 the mean for the district is 65%, this table shows the minimum average per school is 54%, and the maximum is 
 91.33%, which suggests some variability across the school.
 
-![original_per_school_summary](https://github.com/valerielnd/School_District_Analysis/blob/main/original_per_school_summary.png)
+![original_per_school_summary](https://github.com/valerielnd/School_District_Analysis/blob/main/Pictures/original_per_school_summary.png)
 
 ### The highest performing school table
 
@@ -82,7 +82,7 @@ The best performing school is Cabrera High School, with an overall passing perce
 an overall passing score of at least 90%.
 
 
-![original_best_performing_school](https://github.com/valerielnd/School_District_Analysis/blob/main/original_highest_school.png)
+![original_best_performing_school](https://github.com/valerielnd/School_District_Analysis/blob/main/Pictures/original_highest_school.png)
 
 ### The lowest performing school table
 
@@ -93,7 +93,7 @@ We can see that the lowest-performing school is Rodriguez High School, with an o
 52.9%. Also, we can notice that all lowest-performing schools are district schools, and they all have
 an overall passing score of at most 53%.
 
-![orginal_lowest_performing_school](https://github.com/valerielnd/School_District_Analysis/blob/main/original_lowest_school.png)
+![orginal_lowest_performing_school](https://github.com/valerielnd/School_District_Analysis/blob/main/Pictures/original_lowest_school.png)
 
 ### Per grade and school average math and reading scores
 
@@ -108,9 +108,9 @@ consistent. There is not a significant difference between their averages scores.
 average per grade for math score for each school and their average for reading score, generally, 
 each grade performs better in reading than math.
 
-![original_per_grade_math](https://github.com/valerielnd/School_District_Analysis/blob/main/original_math_grades_score.png)
+![original_per_grade_math](https://github.com/valerielnd/School_District_Analysis/blob/main/Pictures/original_math_grades_score.png)
 
-![original_per_grade_reading](https://github.com/valerielnd/School_District_Analysis/blob/main/original_reading_grades_score.png)
+![original_per_grade_reading](https://github.com/valerielnd/School_District_Analysis/blob/main/Pictures/original_reading_grades_score.png)
 
 ### School performance based on the budget per student
 
@@ -124,7 +124,7 @@ Schools that have a budget of less than $585 per student have the highest averag
 and passing percentages.
 
 
-![original_performance_budget](https://github.com/valerielnd/School_District_Analysis/blob/main/original_school_performance_based_size.png)
+![original_performance_budget](https://github.com/valerielnd/School_District_Analysis/blob/main/Pictures/original_school_performance_based_size.png)
 
 ### School performance based on the school size 
 
@@ -138,7 +138,7 @@ There are three size ranges :
 Schools that have fewer than 1,000 students have the highest average scores 
 and passing percentages.
 
-![original_performance_size](https://github.com/valerielnd/School_District_Analysis/blob/main/original_school_performance_based_size.png)
+![original_performance_size](https://github.com/valerielnd/School_District_Analysis/blob/main/Pictures/original_school_performance_based_size.png)
 
 ### School performance based on the type of school
 
@@ -148,7 +148,7 @@ There are two types of schools: Charter and district.
 
 Charter schools have higher average scores and passing percentages than district schools.
 
-![original_performance_type](https://github.com/valerielnd/School_District_Analysis/blob/main/original_school_performance_based_type.png)
+![original_performance_type](https://github.com/valerielnd/School_District_Analysis/blob/main/Pictures/original_school_performance_based_type.png)
 
 ## Challenge overview
 
@@ -164,7 +164,7 @@ When we compare the results of the first School district summary and the second 
 the average math score, percentages of students passing reading and math, and the overall
 passing percentage decreased, whereas the average reading score did not change.
 
-![challenge_district_summary](https://github.com/valerielnd/School_District_Analysis/blob/main/challenge_district_summary.png)
+![challenge_district_summary](https://github.com/valerielnd/School_District_Analysis/blob/main/Pictures/challenge_district_summary.png)
 
 ### Per school summary
 
@@ -176,7 +176,7 @@ average math and reading score, the percentage of passing math
 and passing reading did not change significantly. However, the overall 
 passing percentage increases from 90% to 97%.
 
-![thomas_summary](https://github.com/valerielnd/School_District_Analysis/blob/main/thomas_school_results.png)
+![thomas_summary](https://github.com/valerielnd/School_District_Analysis/blob/main/Pictures/thomas_school_results.png)
 ### The highest performing school table
 
 The table of highest performing schools changed. Thomas High School
@@ -186,7 +186,7 @@ of 97%.
 However, the same five high schools remain at the top, and they are all charter
 schools.
 
-![challenge_top_school](https://github.com/valerielnd/School_District_Analysis/blob/main/challenge_top_schools.png)
+![challenge_top_school](https://github.com/valerielnd/School_District_Analysis/blob/main/Pictures/challenge_top_schools.png)
 
 ### The lowest performing school table
 
@@ -198,9 +198,9 @@ The Per grade and school average math and reading scores for all the school
 did not change, except we are missing the results for Thomas
 High School ninth graders.
 
-![thomas_grade_math](https://github.com/valerielnd/School_District_Analysis/blob/main/thomas_school_grade_math.png)
+![thomas_grade_math](https://github.com/valerielnd/School_District_Analysis/blob/main/Pictures/thomas_school_grade_math.png)
 
-![thomas_grade_reading](https://github.com/valerielnd/School_District_Analysis/blob/main/thomas_school_grade_reading.png)
+![thomas_grade_reading](https://github.com/valerielnd/School_District_Analysis/blob/main/Pictures/thomas_school_grade_reading.png)
 
 ### School performance based on the budget per student
 
@@ -210,7 +210,7 @@ per student. As we can see, the overall passing percentage increased by
 1%. This value was changed because Thomas High School has a 
 budget of $638 per student.
 
-![challenge_performace_budget](https://github.com/valerielnd/School_District_Analysis/blob/main/challenge_performance_based_budget.png)
+![challenge_performace_budget](https://github.com/valerielnd/School_District_Analysis/blob/main/Pictures/challenge_performance_based_budget.png)
 
 ### School performance based on the school size
 
@@ -220,7 +220,7 @@ The school performance based on the school size report was only affected for
 the range of medium-sized schools. As we can see, the overall passing percentage increased by 1%. 
 This value was changed because Thomas High School is a medium-sized school.
 
-![challenge_performace_size](https://github.com/valerielnd/School_District_Analysis/blob/main/thomas_performace_based_size.png)
+![challenge_performace_size](https://github.com/valerielnd/School_District_Analysis/blob/main/Pictures/thomas_performace_based_size.png)
 
 ### School performance based on the school type
 
@@ -229,7 +229,7 @@ affected for the charter schools. As we can see, the overall
 passing percentage increased by 1%. This value was changed because
 Thomas High School is a charter school.
 
-![challenge_performace_type](https://github.com/valerielnd/School_District_Analysis/blob/main/thomas_performace_based_type.png)
+![challenge_performace_type](https://github.com/valerielnd/School_District_Analysis/blob/main/Pictures/thomas_performace_based_type.png)
 
 ## Summary
 
