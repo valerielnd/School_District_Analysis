@@ -124,7 +124,7 @@ Schools that have a budget of less than $585 per student have the highest averag
 and passing percentages.
 
 
-![original_performance_budget](https://github.com/valerielnd/School_District_Analysis/blob/main/Pictures/original_school_performance_based_size.png)
+![original_performance_budget](https://github.com/valerielnd/School_District_Analysis/blob/main/Pictures/orginal_perfomance_based_budget.png)
 
 ### School performance based on the school size 
 
